@@ -27,7 +27,9 @@ Saya adalah seorang Full Stack Developer yang bersemangat dalam pengembangan web
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Baileys](https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ## 🌟 Keahlian
 
