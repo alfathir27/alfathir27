@@ -34,6 +34,7 @@ Saya adalah seorang Full Stack Developer yang bersemangat dalam pengembangan web
 ## 🌟 Keahlian
 
 - 💻 Web Development (Full Stack)
+- 📱 Mobile Development
 - 🔗 Web3 Development
 - 📝 Smart Contract Development
 - 🛠️ DevOps & Deployment
