@@ -42,7 +42,7 @@ Saya adalah seorang Full Stack Developer yang bersemangat dalam pengembangan web
 
 ## 📚 Pendidikan
 
-- 🎓 S1 Sains Data - Universitas Negeri Surabaya (2023 - Sekarang)
+- 🎓 S1 Sains Data - Universitas Negeri Surabaya (2024 - Sekarang)
 
 ## 🏆 Proyek Unggulan
 
